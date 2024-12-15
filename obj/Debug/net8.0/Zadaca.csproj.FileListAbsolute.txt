@@ -1,0 +1,14 @@
+C:\Users\Dino\Desktop\Zadaca\obj\Debug\net8.0\Zadaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dino\Desktop\Zadaca\obj\Debug\net8.0\Zadaca.AssemblyInfoInputs.cache
+C:\Users\Dino\Desktop\Zadaca\obj\Debug\net8.0\Zadaca.AssemblyInfo.cs
+C:\Users\Dino\Desktop\Zadaca\obj\Debug\net8.0\Zadaca.csproj.CoreCompileInputs.cache
+C:\Users\Dino\Desktop\Zadaca\bin\Debug\net8.0\Zadaca.exe
+C:\Users\Dino\Desktop\Zadaca\bin\Debug\net8.0\Zadaca.deps.json
+C:\Users\Dino\Desktop\Zadaca\bin\Debug\net8.0\Zadaca.runtimeconfig.json
+C:\Users\Dino\Desktop\Zadaca\bin\Debug\net8.0\Zadaca.dll
+C:\Users\Dino\Desktop\Zadaca\bin\Debug\net8.0\Zadaca.pdb
+C:\Users\Dino\Desktop\Zadaca\obj\Debug\net8.0\Zadaca.dll
+C:\Users\Dino\Desktop\Zadaca\obj\Debug\net8.0\refint\Zadaca.dll
+C:\Users\Dino\Desktop\Zadaca\obj\Debug\net8.0\Zadaca.pdb
+C:\Users\Dino\Desktop\Zadaca\obj\Debug\net8.0\Zadaca.genruntimeconfig.cache
+C:\Users\Dino\Desktop\Zadaca\obj\Debug\net8.0\ref\Zadaca.dll
